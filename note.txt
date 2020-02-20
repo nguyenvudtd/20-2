@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/16094537/check-if-redis-variable-changed-externally-in-nodejs
+https://redis.io/topics/notifications
+https://github.com/NodeRedis/node_redis
+https://github.com/NodeRedis/node_redis
